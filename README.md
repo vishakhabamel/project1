@@ -4,7 +4,6 @@ POS tagger
 
 NOTE: The code is made on jupyter notebook and can be run in blocks.
 
--> The code has both test data output and has functionality to make POS tags for a given Sentence 
-#can be inserted in code at a dedicated location
+-> The code has both test data output and has functionality to make POS tags for a given sentence <can be inserted in code at a dedicated location>
 
 Thankyou
